@@ -170,7 +170,7 @@ def output(fetchedCityName, fetchedCountryName, fetchedLatitude, fetchedLongitud
     print(f'Longitude: {fetchedLongitude}')
     print(f'Timezone: {fetchedTimezone}')
     print(f'Population: {fetchedPopulation}')
-    print(f'Temperature: {fetchedTemperature}')
+    print(f'Temperature: {fetchedTemperature} °C')
     print(f'Wind Speed: {fetchedWindSpeed}')
     print(f'Wind Direction: {fetchedWindDirection}')
     print(f'Weather Condition: {weatherCode}')
